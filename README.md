@@ -5,11 +5,11 @@
 </div>
 
 ## 🎭 The Developer Behind The Code
-**Hey there! I'm a Full Stack Engineer who believes in the power of clean code and innovative solutions. My journey spans across multiple technologies, always pushing boundaries and exploring new possibilities**
+**Hey there! I'm a Software Engineer who believes in the power of clean code and innovative solutions. My journey spans across multiple technologies, always pushing boundaries and exploring new possibilities.**
 
-- 🔥 Building: Scalable web applications with modern architecture
+- 💻 Building: Scalable web applications with modern architecture
 - 📚 Learning: Advanced cloud patterns and microservices
-- 🎪 Exploring: AI integration in web development
+- 🎪 Exploring: AI integration in Software development
 
 
 ## 🛠️ Tech Stack
@@ -51,10 +51,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-krishnaiah/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankgowda484@gmail.com)
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankKrishnaiah&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
 <div align="center">
