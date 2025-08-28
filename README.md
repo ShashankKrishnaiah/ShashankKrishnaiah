@@ -45,6 +45,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankKrishnaiah&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShashankKrishnaiah/ShashankKrishnaiah/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 ---
 
@@ -111,6 +115,41 @@ PostgreSQL      ███████████████        75%
 ⚡ **Microservices Architecture** - Building scalable distributed systems  
 🌐 **Full-Stack Development** - Modern web applications with React & Node.js  
 ☁️ **Cloud Solutions** - AWS-based deployment and automation  
+
+### 📚 Latest Blog Posts & Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 🎯 Fun Facts & Metrics
+
+<div align="center">
+
+```javascript
+const shashank = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    languages: ["Python", "JavaScript", "Java", "C"],
+    frameworks: ["React", "Node.js", "Express", "Flask"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    currentFocus: "AI Integration & Microservices",
+    hobbies: ["Gaming 🎮", "Tech Blogs 📖", "Open Source 💻"],
+    coffee: "☕ >= 3 cups/day",
+    motto: "Code, Learn, Innovate, Repeat 🔄"
+};
+```
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+If you like my work and want to support me, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/shashankkrishnaiah)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shashankkrishnaiah)
 
 </div>
 
