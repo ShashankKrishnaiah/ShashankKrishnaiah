@@ -1,64 +1,149 @@
-# Hi there! 👋 I'm Shashank Krishnaiah
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  
+  <!-- Header Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashank%20Krishnaiah&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32"/>
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=💻+Software+Engineer;🚀+Full+Stack+Developer;🎯+Tech+Enthusiast;🌟+Problem+Solver;⚡+Innovation+Driven" alt="Typing SVG" />
+  
+  <!-- Profile Views Counter -->
+  <p><img src="https://komarev.com/ghpvc/?username=ShashankKrishnaiah&style=for-the-badge&color=brightgreen" alt="Profile Views"/></p>
+  
 </div>
 
-## 🎭 The Developer Behind The Code
-**Hey there! I'm a Software Engineer who believes in the power of clean code and innovative solutions. My journey spans across multiple technologies, always pushing boundaries and exploring new possibilities.**
+## 🎭 About Me
 
-- 💻 Building: Scalable web applications with modern architecture
-- 📚 Learning: Cloud automation, Microservices, and modern software architectures
-- 🎪 Exploring: Generative AI and AI integration in Software development
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</div>
 
+**Hey there! I'm a passionate Software Engineer who believes in the power of clean code and innovative solutions. My journey spans across multiple technologies, always pushing boundaries and exploring new possibilities.**
 
-## 🛠️ Tech Stack
+- 🔭 **Currently working on:** Scalable web applications with modern architecture
+- 🌱 **Learning:** Cloud automation, Microservices, and modern software architectures  
+- 🎯 **Exploring:** Generative AI and AI integration in Software development
+- 💬 **Ask me about:** Full-stack development, Python, React, and system design
+- ⚡ **Fun fact:** I debug code faster with coffee ☕
+- 🎮 **When not coding:** Gaming, exploring new tech, or planning my next project
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br clear="both"/>
 
 ---
-## 🤝 Connect With Me
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-krishnaiah/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankgowda484@gmail.com)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShashankKrishnaiah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankKrishnaiah&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashankKrishnaiah&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankKrishnaiah&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma" />
+</p>
+
+### ⚙️ Backend Development  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode" />
+</p>
+
+</div>
+
+### 📈 Skill Levels
+```text
+Python          ████████████████████   95%
+JavaScript      ██████████████████     90%
+React           ████████████████████   95%
+Node.js         ██████████████████     90%
+AWS             ███████████████        75%
+Docker          ████████████████       80%
+MongoDB         ██████████████████     90%
+PostgreSQL      ███████████████        75%
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShashankKrishnaiah&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🚀 Current Projects & Focus Areas
+
+<div align="center">
+
+### 🎯 What I'm Currently Working On
+
+🔥 **AI-Powered Applications** - Integrating generative AI into web applications  
+⚡ **Microservices Architecture** - Building scalable distributed systems  
+🌐 **Full-Stack Development** - Modern web applications with React & Node.js  
+☁️ **Cloud Solutions** - AWS-based deployment and automation  
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
   
-<div align="center">
-  With ❤️ From Shashank Krishnaiah 
+  <!-- Social Links -->
+  <a href="https://www.linkedin.com/in/shashank-krishnaiah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shashankgowda484@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ShashankKrishnaiah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <br><br>
+  
+  <!-- Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+  <br><br>
+  
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  
+  <br>
+  
+  **💖 Thanks for visiting! Feel free to reach out for collaboration opportunities.**  
+  **⭐ Star my repos if you find them interesting!**
+  
 </div>
